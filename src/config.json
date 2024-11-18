@@ -1,0 +1,6 @@
+{
+    "GROQ_API_KEY" : "",
+    "SERPAPI_API_KEY" : "",
+    "GROQ_MAX_LIMIT" : "30",
+    "SERPAPI_MAX_LIMIT" : "100"  
+}
